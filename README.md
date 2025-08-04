@@ -98,7 +98,7 @@ To run it locally:
    streamlit run Fake_News_Detection_GUI.py
 
 
-```
+
 ## 🗂️ Project Structure
 ```
 
@@ -114,7 +114,7 @@ To run it locally:
 └── README.md                         # Project documentation
 
 ```
-```
+
 
 ## ✍️ Author
 
