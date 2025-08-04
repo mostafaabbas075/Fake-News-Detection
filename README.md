@@ -97,12 +97,12 @@ To run it locally:
 2. Run the app:
    streamlit run Fake_News_Detection_GUI.py
 
-```
+
 ```markdown
 
 ## 🗂️ Project Structure
 
-
+```
 .
 ├── Fake_News_Detection_GUI.py        # Streamlit app
 ├── Fake_News_Classifier.ipynb        # Notebook with full training pipeline
