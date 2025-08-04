@@ -97,7 +97,7 @@ To run it locally:
 2. Run the app:
    streamlit run Fake_News_Detection_GUI.py
 
-
+```
 ```markdown
 
 ## 🗂️ Project Structure
