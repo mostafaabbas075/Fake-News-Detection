@@ -1,9 +1,9 @@
 # 📰 Fake News Detection using NLP and Machine Learning
 
-```markdown
+
 This project is part of Task 3 of the Elevvo Internship.
 It applies Natural Language Processing (NLP) techniques to classify news articles as either Fake or True using supervised machine learning models.
-```
+
 
 ---
 
