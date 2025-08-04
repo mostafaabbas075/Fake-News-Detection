@@ -103,7 +103,7 @@ To run it locally:
 
 ## 🗂️ Project Structure
 
-```markdown
+
 .
 ├── Fake_News_Detection_GUI.py        # Streamlit app
 ├── Fake_News_Classifier.ipynb        # Notebook with full training pipeline
@@ -114,21 +114,19 @@ To run it locally:
 │   ├── SVM.png
 │   └── word cloud.png
 └── README.md                         # Project documentation
-```
 
----
+
+
 
 ## ✍️ Author
 
-```markdown
+
 Mostafa Abbas Saleh  
 AI Student | NLP Practitioner
-```
 
----
 
 ## 🙏 Acknowledgment
 
-```markdown
+
 Thanks to Elevvo for the valuable internship experience and training.
-```
+
