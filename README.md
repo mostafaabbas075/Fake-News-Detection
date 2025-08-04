@@ -10,7 +10,7 @@ It applies Natural Language Processing (NLP) techniques to classify news article
 
 
 - Goal: Detect whether a given news article is fake or real
-- Dataset: [AG News Classification Dataset](https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset)
+- Dataset: (fake-and-real-news-dataset)
 - Approach: 
     - Load and label Fake/True news articles
     - Preprocess and clean the text (lowercasing, lemmatization, stopword removal, etc.)
@@ -30,12 +30,11 @@ It applies Natural Language Processing (NLP) techniques to classify news article
 The dataset consists of two CSV files: `Fake.csv` and `True.csv`.
 
 Since the full dataset and notebook exceed GitHub's size limits, you can access them from:
-🔗 Google Drive: 
-https://drive.google.com/drive/folders/1PBJ-cQ27l7konrQNcDhqOTwwVStcLJNb?usp=drive_link
+🔗 Google Drive: (My Drive) [https://drive.google.com/drive/folders/1PBJ-cQ27l7konrQNcDhqOTwwVStcLJNb?usp=drive_link]
 
 Or directly from:
 🔗 Kaggle: 
-https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset?select=Fake.csv
+(fake-and-real-news-dataset)[https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset?select=Fake.csv]
 
 
 
@@ -99,7 +98,7 @@ To run it locally:
    streamlit run Fake_News_Detection_GUI.py
 
 
-
+```markdown
 
 ## 🗂️ Project Structure
 
@@ -115,7 +114,7 @@ To run it locally:
 │   └── word cloud.png
 └── README.md                         # Project documentation
 
-
+```
 
 
 ## ✍️ Author
